@@ -3,7 +3,7 @@ ALL COPY FROM IMEIJI
 CentOS一键安装  
 
 wget --no-check-certificate https://raw.githubusercontent.com/wjk199511140034/netspeeder-onekeyinstall/master/net_speeder_lazyinstall.sh  
-net_speeder_lazyinstall.sh  
+bash net_speeder_lazyinstall.sh  
 
 OVZ安装完毕后敲入：  
 nohup /usr/local/net_speeder/net_speeder venet0 "ip" >/dev/null 2>&1 &  
