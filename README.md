@@ -2,7 +2,7 @@
 ALL COPY FROM IMEIJI  
 CentOS一键安装  
 
-wget --no-check-certificate https://raw.githubusercontent.com/wjk199511140034/netspeeder-onekeyinstall/master/net_speeder_lazyinstall.sh
+wget --no-check-certificate https://raw.githubusercontent.com/wjk199511140034/netspeeder-onekeyinstall/master/net_speeder_lazyinstall.sh  
 net_speeder_lazyinstall.sh  
 
 OVZ安装完毕后敲入：  
